@@ -14,18 +14,19 @@ layout: post
 If you answered “yes” then you are in the perfect place to meet the ultimate tool that will enhance your productivity and save you a lot of time when coding.
 Some of you may know it as “Zen coding” and for quite some time (2012) it’s known as <a href="http://emmet.io/">Emmet</a>.
 
-Emmet is a plugin for a text editor which greatly improves html and css workflow.
+Emmet is a plugin for a text editor which greatly improves html and css workflow.   
 The idea behind it is to instantly expand simple abbreviations into complex code snippet.
-The creator of Emmet is <a href="http://emmet.io/credits/">Sergey Chikuyonok</a>.
+The creator of Emmet is <a href="http://emmet.io/credits/">Sergey Chikuyonok</a>.   
 It’s available for many popular text editors such as: Sublime text, Phpstrom, Eclipse, Aptana, TextMate, Coda, Nodepad++ and many more.
 
 For those who don’t know what an abbreviation is ?
-Abbreviation It’s a shortened form of a word or phrase. Usually, but not always, it consists of a letter or group of letters taken from the word or phrase.
+Abbreviation It’s a shortened form of a word or phrase. Usually, but not always, it consists of a letter or group of letters taken from the word or phrase.   
 Emmet use these abbreviations to parse them in runtime and transform them into structured code block, HTML, CSS, XSL syntax.
 This tutorial will mainly review the abbreviations of the html and a little bit of the css.
 for the complete list of available abbreviations use the official <a href="http://docs.emmet.io/cheat-sheet//">cheet sheet</a>
-.
-Let’s move on to the examples and let the cool part begin!
+.   
+Let’s move on to the examples and let the cool part begin ;)
+
 this abbreviation:
 ```
 div#wrapper>div.box+ul#navigation>li*5>a{Item $}
@@ -43,3 +44,8 @@ will be transformed into:
   </ul>
 </div>
 ```
+
+If we examine the syntax we can see it’s mainly constructed out of ”html tags” and “css selectors” alongside special characters that bounds the connection (logic) between them.   
+This makes it easy to use for any one who knows html and css, specialy web developers.
+
+
