@@ -15,7 +15,7 @@ If you answered “yes” then you are in the perfect place to meet the ultimate
 Some of you may know it as “Zen coding” and for quite some time (2012) it’s known as <a href="http://emmet.io/">Emmet</a>.
 
 Emmet is a plugin for a text editor which greatly improves html and css workflow.   
-The idea behind it is to instantly expand simple abbreviations into complex code snippet.
+The idea behind it is to instantly expand simple abbreviations into complex code snippet.   
 The creator of Emmet is <a href="http://emmet.io/credits/">Sergey Chikuyonok</a>.   
 It’s available for many popular text editors such as: Sublime text, Phpstrom, Eclipse, Aptana, TextMate, Coda, Nodepad++ and many more.
 
@@ -47,5 +47,12 @@ will be transformed into:
 
 If we examine the syntax we can see it’s mainly constructed out of ”html tags” and “css selectors” alongside special characters that bounds the connection (logic) between them.   
 This makes it easy to use for any one who knows html and css, specialy web developers.
+
+Emmet is very flexible and can be expanded to meet your needs by allowing you to:
+* Add your own or update existing snippets.
+* Change behavior of some Emmet filters and actions.
+* Define how generated HTML/XML should look.
+
+Lets sse some nice shortcuts
 
 
